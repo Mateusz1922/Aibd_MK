@@ -1,0 +1,20 @@
+The data included in the file 'earthquake_data.csv' provide the results of the survey conducted 
+on people on various questions connected with the topic of earthquakes. 
+The questions were:
+- "In general, how how worried are you about earthquakes?",
+- "How worried are you about the Big One, a massive, catastrophic earthquake?",
+- "Do you think the ""Big One"" will occur in your lifetime?",
+- "Have you ever experienced an earthquake?",
+- "Have you or anyone in your household taken any precautions for an earthquake 
+(packed an earthquake survival kit, prepared an evacuation plan, etc.)?",
+- "How familiar are you with the San Andreas Fault line?",
+- "How familiar are you with the Yellowstone Supervolcano?",
+
+The additional data we asked for were:
+- Age (divided into several ranges),
+- Gender (We assumed only Male and Female),
+- How much total combined money did all members of your HOUSEHOLD earn last year?
+- US Region
+
+These data stand for the base of the way of how the all data will be subsequently
+processed and ordered.
