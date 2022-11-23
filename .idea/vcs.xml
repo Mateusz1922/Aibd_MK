@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/lab1_connection-Mateusz1922" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab2_join-Mateusz1922" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab3_regexp-Mateusz1922" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab5_exp_data_analysis/laboratorium-eda-Mateusz1922" vcs="Git" />
   </component>
 </project>

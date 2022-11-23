@@ -1,0 +1,17 @@
+The data included in the file '11_S╠üLA╠ĘSKIE.csv' outline the opinions of the buyers of the vacuum cleaners 
+bought in Silesian voivodeship. The data were collected via an online system, where each buyer could evaluate the 
+quality of the product he had bought. He was also supposed to list some of his personal data. Each record has 5 
+fields, they are: 'Days after the purchase', 'Brand', 'Age', 'Gender' and 'Rating'.
+
+1. 'Days of the purchase' - the data stored in this field show the number of days after the purchase, when the acquirer
+made an evaluation about the quality of the vacuum cleaner he had bought.
+
+2. 'Brand' - the brand of the vacuum cleaner bought by the shopper.
+
+3. 'Age' - age of the buyer.
+
+4. 'Gender' - gender of the buyer.
+
+5. 'Rating' - the rating of the vacuum cleaner made by the buyer. The rating could be made on a scale of 0 to 5.
+
+These data stand for the base of the way of how the all data will be subsequently processed and described.   
